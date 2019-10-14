@@ -8,6 +8,6 @@ def square_array(array)
    counter +=1
   end
  while array.length>counter do
-   square_array(array)
+   Math.sqrt(array)
  end
 end
