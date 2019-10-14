@@ -10,5 +10,4 @@ def square_array(array)
  while array.length>counter do
    square_array(array)
  end
- end
 end
