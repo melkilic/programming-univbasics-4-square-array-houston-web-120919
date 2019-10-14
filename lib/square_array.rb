@@ -7,4 +7,4 @@ def square_array(array)
   end
  end
   array= [2,4,8]
-  square_array(array)
+Math.sqrt(array)
